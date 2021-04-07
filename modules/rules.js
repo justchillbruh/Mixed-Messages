@@ -1,5 +1,7 @@
 var rules = {
-    test: ["Test 1", "Test 2"]
+    game: ["Arrow keys for movement", "Text based only", "Movement based on direction and jumping", "Use hexcode for texturing and graphics", "8-bit music and sounds", "Defensive player only", "Building relationships is extremely important", "Teleportation movement", "Time travel must be a core mechanic", "Politics must be a major factor", "ASCII graphics", "Computer clock speed must be used for timing", "Wasting money must be important", "Abstract or out-of-the-box thinking must be important", "Player emotions must influence the game"],
+    website: ["No javascript allowed", "Must use videos for most of site", "Must load quickly with slow internet", "18 years or older may use site", "18 years and under can only use site", "Images for coloring only (no hex)", "Site has to reload randomly", "Navigation is based on specific keys entered", "Navigation buttons move on screen", "Navigation is search-based only", "Payment on cryptocurrency only", "Only use notepad to code"],
+    generator: ["User must give a text seed for generation", "Include Easter Eggs", "Outputs images from Google Images only", "Outputs in binary", "Outputs in pig latin", "Generation time must be uncomfortably long", "Only generates in one color", "Rainbow colors must be used", "Seed for generation is based on birthdays", "Outputs old photos", "Related music or sounds should be outputted", "Text-to-speech must be used"]
 };
 
 module.exports = {rule: rules};
